@@ -88,9 +88,11 @@
             <pb facs="tcp:1182801700:1" rendition="simple:additions"/>
             <p>The STRANGERS AT HOME; A Comic Opera, In Three Acts: As performed
 at the Theatre Royal in Drury Lane.</p>
-            <figure>
-               <figDesc>tableau</figDesc>
-            </figure>
+            <p> 
+               <figure>
+                  <figDesc>tableau</figDesc>
+               </figure>
+            </p>
             <p>
                <hi rend="blackletterType">LONDON:</hi> Printed for Harrison &amp;
 C<hi rend="sup">o</hi>. N<hi rend="sup">o</hi>.18. Paternoster Row. MDCCLXXXVI.</p>
